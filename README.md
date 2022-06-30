@@ -1,5 +1,5 @@
 # ReuseFrameworkLSP
-Ini adalah aplikasi untuk mengupload file berbentuk jpg/png/jpeg kedalam database dan PC, menggunakan sistem CRUD dan menggunakan prinsip MVC.
+Ini adalah aplikasi untuk mengupload file berbentuk jpg/png/jpeg kedalam database dan PC, menggunakan sistem CRUD dan menggunakan prinsip MVC. Aplikasi ini dibuat menggunakan Microsoft Visual Studio Code + XAMPP + CodeIgniter-3.1.13
 
 # Penjelasan Detail Program :
 Pada bagian awal sebelum dimulai, membuat folder baru dan mmemasukkan folder yang ada dari codeigniter kedalam htdocs yang berada di dalam XAMPP
